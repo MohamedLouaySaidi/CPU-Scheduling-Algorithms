@@ -48,7 +48,8 @@ Run the compiled program: `./cpu_scheduling`
 ### Priority Scheduling Execution
 ![Priority Input](Screenshots/inputprio.png)
 <img src="Screenshots/inputprio.png" width="400">
-![Priority](Screenshots/prio.png)<img src="Screenshots/prio.png" width="50%">
+![Priority](Screenshots/prio.png)
+<img src="Screenshots/prio.png" width="50%"><img src="Screenshots/prio.png" width="50%">
 
 ## Credits
 
