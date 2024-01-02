@@ -43,5 +43,5 @@ Run the compiled program: `./cpu_scheduling`
 ## Credits
 
 This project was developed by:
-- [Mohamed Louay Saidi](https://github.com/MohamedLouaySaidi) - Description of your contributions.
-- [Syrine Meksi](https://github.com/MeksiSyrine) - Description of your friend's contributions.
+- [Mohamed Louay Saidi](https://github.com/MohamedLouaySaidi).
+- [Syrine Meksi](https://github.com/MeksiSyrine).
