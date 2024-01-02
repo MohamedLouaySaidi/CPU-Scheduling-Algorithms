@@ -10,12 +10,12 @@ The project contains the following files:
 ## Implemented Algorithms
 1. **FCFS (First Come, First Serve):** Implements the FCFS scheduling algorithm where processes are executed based on their arrival time.
 2. **SJF (Shortest Job First):**
-- **Non-preemptive:** Executes the shortest job first without preemption.
-- **Preemptive**: Executes the shortest job first with preemption.
+	. **Non-preemptive:** Executes the shortest job first without preemption.
+	. **Preemptive**: Executes the shortest job first with preemption.
 3. **RR (Round-robin):** Implements the round-robin scheduling algorithm allowing a fixed time quantum for each process.
 4. **Priority-based Scheduling:**
-- **Non-preemptive:** Executes processes based on priority without preemption.
-- **Preemptive** Executes processes based on priority with preemption.
+	. **Non-preemptive:** Executes processes based on priority without preemption.
+	. **Preemptive** Executes processes based on priority with preemption.
 ## Usage
 To run the program:
 
