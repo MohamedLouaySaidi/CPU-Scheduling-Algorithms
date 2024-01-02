@@ -26,31 +26,17 @@ Clone the repository.
 Compile the C file using a C compiler such as GCC: `gcc cpu_scheduling.c -o cpu_scheduling`
 Run the compiled program: `./cpu_scheduling`
 ## Screenshots
-![Start Menu](Screenshots/startmenu.png)
-<img src="Screenshots/startmenu.png" width="48">
-![Input](Screenshots/input.png)
-<img src="Screenshots/input.png" width="48">
+<img src="Screenshots/startmenu.png" width="45%">  <img src="Screenshots/input.png" width="45%">
 ### FCFS Execution
-![FCFS/FIFO](Screenshots/fcfs-fifo.png)
-<img src="Screenshots/fcfs-fifo.png" width="48">
+<img src="Screenshots/fcfs-fifo.png" width="45%">
 ### SJF Execution
-![SJF Menu](Screenshots/menusjf.png)
-<img src="Screenshots/menusjf.png" width="48">
-![SJF with priority](Screenshots/sjf1.png)
-<img src="Screenshots/sjf1.png" width="48">
-![SJF without priority](Screenshots/sjf2.png)
-<img src="Screenshots/sjf2.png" width="48">
-### RR Execution
-![RR Input](Screenshots/inputrr.png)
-<img src="Screenshots/inputrr.png" width="48">
-![RR](Screenshots/rr.png)
-<img src="Screenshots/rr.png" width="48">
-### Priority Scheduling Execution
-![Priority Input](Screenshots/inputprio.png)
-<img src="Screenshots/inputprio.png" width="400">
-![Priority](Screenshots/prio.png)
-<img src="Screenshots/prio.png" width="50%"><img src="Screenshots/prio.png" width="50%">
+<img src="Screenshots/menusjf.png" width="45%">  <img src="Screenshots/sjf1.png" width="45%">
 
+<img src="Screenshots/sjf2.png" width="45%">
+### RR Execution
+<img src="Screenshots/inputrr.png" width="45%">  <img src="Screenshots/rr.png" width="45%">
+### Priority Scheduling Execution
+<img src="Screenshots/inputprio.png" width="45%">  <img src="Screenshots/prio.png" width="45%">
 ## Credits
 
 This project was developed by:
