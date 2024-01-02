@@ -29,12 +29,15 @@ Run the compiled program: `./cpu_scheduling`
 <img src="Screenshots/startmenu.png" width="45%">  <img src="Screenshots/input.png" width="45%">
 ### FCFS Execution
 <img src="Screenshots/fcfs-fifo.png" width="45%">
+
 ### SJF Execution
 <img src="Screenshots/menusjf.png" width="45%">  <img src="Screenshots/sjf1.png" width="45%">
 
 <img src="Screenshots/sjf2.png" width="45%">
+
 ### RR Execution
 <img src="Screenshots/inputrr.png" width="45%">  <img src="Screenshots/rr.png" width="45%">
+
 ### Priority Scheduling Execution
 <img src="Screenshots/inputprio.png" width="45%">  <img src="Screenshots/prio.png" width="45%">
 ## Credits
