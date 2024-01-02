@@ -26,10 +26,20 @@ Clone the repository.
 Compile the C file using a C compiler such as GCC: `gcc cpu_scheduling.c -o cpu_scheduling`
 Run the compiled program: `./cpu_scheduling`
 ## Screenshots
+![Start Menu](Screenshots/startmenu.png)
+![Input](Screenshots/input.png)
 ### FCFS Execution
+![FCFS/FIFO](Screenshots/fcfs-fifo.png)
 ### SJF Execution
+![SJF Menu](Screenshots/menusjf.png)
+![SJF with priority](Screenshots/sjf1.png)
+![SJF without priority](Screenshots/sjf2.png)
 ### RR Execution
+![RR Input](Screenshots/inputrr.png)
+![RR](Screenshots/rr.png)
 ### Priority Scheduling Execution
+![Priority Input](Screenshots/inputprio.png)
+![Priority](Screenshots/prio.png)
 ## Credits
 
 This project was developed by:
