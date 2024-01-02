@@ -26,7 +26,7 @@ Clone the repository.
 Compile the C file using a C compiler such as GCC: `gcc cpu_scheduling.c -o cpu_scheduling`
 Run the compiled program: `./cpu_scheduling`
 ## Screenshots
-<img src="Screenshots/startmenu.png" width="45%">     <img src="Screenshots/input.png" width="45%">
+<img src="Screenshots/startmenu.png" width="45%"> <img src="Screenshots/input.png" width="45%">
 ### FCFS Execution
 <img src="Screenshots/fcfs-fifo.png" width="45%">
 
