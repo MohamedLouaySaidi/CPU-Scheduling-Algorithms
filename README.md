@@ -49,7 +49,7 @@ Run the compiled program: `./cpu_scheduling`
 ![Priority Input](Screenshots/inputprio.png)
 <img src="Screenshots/inputprio.png" width="400">
 ![Priority](Screenshots/prio.png)
-<img src="Screenshots/prio.png" width="20%">
+<img src="Screenshots/prio.png" width="40%">
 ## Credits
 
 This project was developed by:
